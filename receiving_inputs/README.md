@@ -1,0 +1,1 @@
+This a simple practice to demonstrate how to receive user input to your program
